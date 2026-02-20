@@ -1,26 +1,17 @@
 # DustnRune
 
 ```txt
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☀
-     ⠀⠀⠀⠀.          .
-        ⠀⠀⠀⠀\\  |  //
-      ⠀⠀⠀⠀⠀⠀\\ | //
-   ⠀⠀⠀⠀⠀⠀ ―  ☼  ―
-      ⠀⠀⠀⠀⠀⠀// | \\
-        ⠀⠀⠀⠀//  |  \\
-     ⠀⠀⠀.          .
-
-user@dustnrune
------------------
-OS: Goated Linux
-Host: Somewhere on Earth
-Kernel: Optimus-Prime
-Uptime: Still learning
-Shell: Bash
-
-Languages: Python, C, learning Java
-Focus: Web Development • Building Things
-Status: Probably Debugging
+$neofetch
+.    ☀        dustnrune@github
+    .       .        -----------------
+       \  |  /       OS: Goated Linux
+     ―  ☼  ―         Host: Somewhere on Earth
+       /  |  \       Kernel: Optimus-Prime
+                     Uptime: Still learning
+                     Shell: Bash
+                     Languages: Python, C, learning Java
+                     Focus: Web Development • Building Things
+                     Status: Probably Debugging
 ```
 
 ---
